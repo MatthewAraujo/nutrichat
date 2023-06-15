@@ -1,0 +1,4214 @@
+{
+  "chatgpt": [
+    {
+      "dados": {
+        "peso": "79kg",
+        "altura": "1.75cm",
+        "idade": "21 anos",
+        "tipo_de_dieta": "Sem preferências",
+        "duração_do_plano": "1 mês",
+        "preferências": "Arroz, pão e legumes",
+        "objetivo": "Alimentação mais saudável",
+        "alergia": "Chocolate",
+        "refeições": "4 por dia",
+        "renda": "2 mil reais"
+      },
+      "plano_alimentício": {
+        "calorias_diárias": "2000",
+        "macronutrientes": {
+          "proteínas": "20%",
+          "carboidratos": "50%",
+          "gorduras": "30%"
+        },
+        "refeições": [
+          {
+            "nome": "Café da manhã",
+            "receitas": [
+              {
+                "nome": "Tigela de aveia com banana",
+                "ingredientes": [
+                  {
+                    "nome": "Aveia em flocos",
+                    "quantidade": "50g"
+                  },
+                  {
+                    "nome": "Leite de amêndoas",
+                    "quantidade": "200ml"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Canela",
+                    "quantidade": "1 colher de chá"
+                  }
+                ],
+                "modo_preparo": "Misture a aveia com o leite de amêndoas e leve ao fogo até formar um mingau. Sirva em uma tigela com a banana cortada em rodelas e a canela por cima."
+              },
+              {
+                "nome": "Sanduíche de pão integral com queijo e tomate",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Tomate",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o tomate entre as fatias de pão integral. Leve ao forno para que o queijo derreta um pouco."
+              },
+              {
+                "nome": "Vitamina de morango e banana",
+                "ingredientes": [
+                  {
+                    "nome": "Morangos",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de soja",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Omelete com brócolis e queijo",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione o brócolis picado e as fatias de queijo. Misture bem. Despeje a mistura em uma frigideira aquecida e espere até que a omelete esteja firme. Sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Almoço",
+            "receitas": [
+              {
+                "nome": "Arroz integral com lentilha e legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Lentilha",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Abobrinha",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Ervilha",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral e a lentilha separadamente. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione a abobrinha e a cenoura picadas e a ervilha e refogue mais um pouco. Misture o arroz, a lentilha e os legumes na panela e mexa bem. Sirva."
+              },
+              {
+                "nome": "Macarrão com molho de tomate e almôndegas de frango",
+                "ingredientes": [
+                  {
+                    "nome": "Macarrão integral",
+                    "quantidade": "100g"
+                  },
+                  {
+                    "nome": "Tomate pelado",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Peito de frango moído",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Pão integral ralado",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o macarrão integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o tomate pelado e deixe cozinhar por alguns minutos. Tempere com sal e pimenta. Em uma tigela, misture o peito de frango moído com o pão integral ralado e temperos a gosto. Faça almôndegas e leve ao forno por cerca de 20 minutos. Sirva com o macarrão e o molho de tomate."
+              },
+              {
+                "nome": "Salada de frango com legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cozido e desfiado",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture todos os ingredientes em uma tigela. Tempere com sal, azeite e vinagre balsâmico."
+              },
+              {
+                "nome": "Risoto de cogumelos com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Queijo parmesão ralado",
+                    "quantidade": "1/4 de xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione os cogumelos picados e deixe cozinhar por alguns minutos. Misture o arroz e os cogumelos na panela e mexa bem. Acrescente o queijo parmesão ralado ao final e sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Lanche da tarde",
+            "receitas": [
+              {
+                "nome": "Iogurte com granola e frutas",
+                "ingredientes": [
+                  {
+                    "nome": "Iogurte natural",
+                    "quantidade": "1 pote"
+                  },
+                  {
+                    "nome": "Granola",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Morango",
+                    "quantidade": "5 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture o iogurte com a granola em um pote. Adicione os morangos picados por cima."
+              },
+              {
+                "nome": "Pão integral com queijo branco e peito de peru",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Peito de peru",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o peito de peru entre as fatias de pão integral."
+              },
+              {
+                "nome": "Smoothie de abacate com banana e leite de coco",
+                "ingredientes": [
+                  {
+                    "nome": "Abacate",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de coco",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Torrada integral com patê de atum",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Atum em conserva",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Salsinha picada",
+                    "quantidade": "1 colher de sopa"
+                  }
+                ],
+                "modo_preparo": "Misture o atum em conserva, a cebola picada e a salsinha em uma tigela. Passe o patê sobre as fatias de pão integral. Leve ao forno para que a torrada fique crocante."
+              }
+            ]
+          },
+          {
+            "nome": "Jantar",
+            "receitas": [
+              {
+                "nome": "Salmão grelhado com legumes no vapor",
+                "ingredientes": [
+                  {
+                    "nome": "Salmão",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Pimentão",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Tempere o salmão com sal e pimenta a gosto. Grelhe em uma frigideira antiaderente até que esteja cozido por dentro e crocante por fora. Corte os legumes em pedaços pequenos e cozinhe no vapor por alguns minutos. Sirva o salmão com os legumes."
+              },
+              {
+                "nome": "Strogonoff de frango com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cortado em cubos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Molho de tomate",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Creme de leite",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em um panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o frango e deixe dourar por alguns minutos. Adicione os cogumelos picados e misture. Adicione o molho de tomate e deixe cozinhar por alguns minutos. Por fim, misture o creme de leite e sirva com o arroz integral."
+              },
+              {
+                "nome": "Tortilha de legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Abobrinha picada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate picado",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Queijo branco picado",
+                    "quantidade": "1/2 xícara"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione os legumes picados e o queijo branco e misture. Despeje a mistura em uma frigideira aquecida e deixe cozinhar até que a tortilha esteja firme. Vire para que cozinhe do outro lado. Sirva."
+              },
+              {
+                "nome": "Peito de frango grelhado com salada verde",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Vinagrete",
+                    "quantidade": "a gosto"
+                  }
+                ],
+                "modo_preparo": "Grelhe o peito de frango em uma frigideira antiaderente. Sirva com a salada verde temperada com vinagrete."
+              }
+            ]
+          }
+        ]
+      },
+      "id": 1
+    },
+    {
+      "dados": {
+        "peso": "79kg",
+        "altura": "1.75cm",
+        "idade": "21 anos",
+        "tipo_de_dieta": "Sem preferências",
+        "duração_do_plano": "1 mês",
+        "preferências": "Arroz, pão e legumes",
+        "objetivo": "Alimentação mais saudável",
+        "alergia": "Chocolate",
+        "refeições": "4 por dia",
+        "renda": "2 mil reais"
+      },
+      "plano_alimentício": {
+        "calorias_diárias": "2000",
+        "macronutrientes": {
+          "proteínas": "20%",
+          "carboidratos": "50%",
+          "gorduras": "30%"
+        },
+        "refeições": [
+          {
+            "nome": "Café da manhã",
+            "receitas": [
+              {
+                "nome": "Tigela de aveia com banana",
+                "ingredientes": [
+                  {
+                    "nome": "Aveia em flocos",
+                    "quantidade": "50g"
+                  },
+                  {
+                    "nome": "Leite de amêndoas",
+                    "quantidade": "200ml"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Canela",
+                    "quantidade": "1 colher de chá"
+                  }
+                ],
+                "modo_preparo": "Misture a aveia com o leite de amêndoas e leve ao fogo até formar um mingau. Sirva em uma tigela com a banana cortada em rodelas e a canela por cima."
+              },
+              {
+                "nome": "Sanduíche de pão integral com queijo e tomate",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Tomate",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o tomate entre as fatias de pão integral. Leve ao forno para que o queijo derreta um pouco."
+              },
+              {
+                "nome": "Vitamina de morango e banana",
+                "ingredientes": [
+                  {
+                    "nome": "Morangos",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de soja",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Omelete com brócolis e queijo",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione o brócolis picado e as fatias de queijo. Misture bem. Despeje a mistura em uma frigideira aquecida e espere até que a omelete esteja firme. Sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Almoço",
+            "receitas": [
+              {
+                "nome": "Arroz integral com lentilha e legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Lentilha",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Abobrinha",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Ervilha",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral e a lentilha separadamente. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione a abobrinha e a cenoura picadas e a ervilha e refogue mais um pouco. Misture o arroz, a lentilha e os legumes na panela e mexa bem. Sirva."
+              },
+              {
+                "nome": "Macarrão com molho de tomate e almôndegas de frango",
+                "ingredientes": [
+                  {
+                    "nome": "Macarrão integral",
+                    "quantidade": "100g"
+                  },
+                  {
+                    "nome": "Tomate pelado",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Peito de frango moído",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Pão integral ralado",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o macarrão integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o tomate pelado e deixe cozinhar por alguns minutos. Tempere com sal e pimenta. Em uma tigela, misture o peito de frango moído com o pão integral ralado e temperos a gosto. Faça almôndegas e leve ao forno por cerca de 20 minutos. Sirva com o macarrão e o molho de tomate."
+              },
+              {
+                "nome": "Salada de frango com legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cozido e desfiado",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture todos os ingredientes em uma tigela. Tempere com sal, azeite e vinagre balsâmico."
+              },
+              {
+                "nome": "Risoto de cogumelos com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Queijo parmesão ralado",
+                    "quantidade": "1/4 de xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione os cogumelos picados e deixe cozinhar por alguns minutos. Misture o arroz e os cogumelos na panela e mexa bem. Acrescente o queijo parmesão ralado ao final e sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Lanche da tarde",
+            "receitas": [
+              {
+                "nome": "Iogurte com granola e frutas",
+                "ingredientes": [
+                  {
+                    "nome": "Iogurte natural",
+                    "quantidade": "1 pote"
+                  },
+                  {
+                    "nome": "Granola",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Morango",
+                    "quantidade": "5 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture o iogurte com a granola em um pote. Adicione os morangos picados por cima."
+              },
+              {
+                "nome": "Pão integral com queijo branco e peito de peru",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Peito de peru",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o peito de peru entre as fatias de pão integral."
+              },
+              {
+                "nome": "Smoothie de abacate com banana e leite de coco",
+                "ingredientes": [
+                  {
+                    "nome": "Abacate",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de coco",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Torrada integral com patê de atum",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Atum em conserva",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Salsinha picada",
+                    "quantidade": "1 colher de sopa"
+                  }
+                ],
+                "modo_preparo": "Misture o atum em conserva, a cebola picada e a salsinha em uma tigela. Passe o patê sobre as fatias de pão integral. Leve ao forno para que a torrada fique crocante."
+              }
+            ]
+          },
+          {
+            "nome": "Jantar",
+            "receitas": [
+              {
+                "nome": "Salmão grelhado com legumes no vapor",
+                "ingredientes": [
+                  {
+                    "nome": "Salmão",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Pimentão",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Tempere o salmão com sal e pimenta a gosto. Grelhe em uma frigideira antiaderente até que esteja cozido por dentro e crocante por fora. Corte os legumes em pedaços pequenos e cozinhe no vapor por alguns minutos. Sirva o salmão com os legumes."
+              },
+              {
+                "nome": "Strogonoff de frango com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cortado em cubos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Molho de tomate",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Creme de leite",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em um panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o frango e deixe dourar por alguns minutos. Adicione os cogumelos picados e misture. Adicione o molho de tomate e deixe cozinhar por alguns minutos. Por fim, misture o creme de leite e sirva com o arroz integral."
+              },
+              {
+                "nome": "Tortilha de legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Abobrinha picada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate picado",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Queijo branco picado",
+                    "quantidade": "1/2 xícara"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione os legumes picados e o queijo branco e misture. Despeje a mistura em uma frigideira aquecida e deixe cozinhar até que a tortilha esteja firme. Vire para que cozinhe do outro lado. Sirva."
+              },
+              {
+                "nome": "Peito de frango grelhado com salada verde",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Vinagrete",
+                    "quantidade": "a gosto"
+                  }
+                ],
+                "modo_preparo": "Grelhe o peito de frango em uma frigideira antiaderente. Sirva com a salada verde temperada com vinagrete."
+              }
+            ]
+          }
+        ]
+      },
+      "id": 2
+    },
+    {
+      "dados": {
+        "peso": "79kg",
+        "altura": "1.75cm",
+        "idade": "21 anos",
+        "tipo_de_dieta": "Sem preferências",
+        "duração_do_plano": "1 mês",
+        "preferências": "Arroz, pão e legumes",
+        "objetivo": "Alimentação mais saudável",
+        "alergia": "Chocolate",
+        "refeições": "4 por dia",
+        "renda": "2 mil reais"
+      },
+      "plano_alimentício": {
+        "calorias_diárias": "2000",
+        "macronutrientes": {
+          "proteínas": "20%",
+          "carboidratos": "50%",
+          "gorduras": "30%"
+        },
+        "refeições": [
+          {
+            "nome": "Café da manhã",
+            "receitas": [
+              {
+                "nome": "Tigela de aveia com banana",
+                "ingredientes": [
+                  {
+                    "nome": "Aveia em flocos",
+                    "quantidade": "50g"
+                  },
+                  {
+                    "nome": "Leite de amêndoas",
+                    "quantidade": "200ml"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Canela",
+                    "quantidade": "1 colher de chá"
+                  }
+                ],
+                "modo_preparo": "Misture a aveia com o leite de amêndoas e leve ao fogo até formar um mingau. Sirva em uma tigela com a banana cortada em rodelas e a canela por cima."
+              },
+              {
+                "nome": "Sanduíche de pão integral com queijo e tomate",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Tomate",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o tomate entre as fatias de pão integral. Leve ao forno para que o queijo derreta um pouco."
+              },
+              {
+                "nome": "Vitamina de morango e banana",
+                "ingredientes": [
+                  {
+                    "nome": "Morangos",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de soja",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Omelete com brócolis e queijo",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione o brócolis picado e as fatias de queijo. Misture bem. Despeje a mistura em uma frigideira aquecida e espere até que a omelete esteja firme. Sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Almoço",
+            "receitas": [
+              {
+                "nome": "Arroz integral com lentilha e legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Lentilha",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Abobrinha",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Ervilha",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral e a lentilha separadamente. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione a abobrinha e a cenoura picadas e a ervilha e refogue mais um pouco. Misture o arroz, a lentilha e os legumes na panela e mexa bem. Sirva."
+              },
+              {
+                "nome": "Macarrão com molho de tomate e almôndegas de frango",
+                "ingredientes": [
+                  {
+                    "nome": "Macarrão integral",
+                    "quantidade": "100g"
+                  },
+                  {
+                    "nome": "Tomate pelado",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Peito de frango moído",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Pão integral ralado",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o macarrão integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o tomate pelado e deixe cozinhar por alguns minutos. Tempere com sal e pimenta. Em uma tigela, misture o peito de frango moído com o pão integral ralado e temperos a gosto. Faça almôndegas e leve ao forno por cerca de 20 minutos. Sirva com o macarrão e o molho de tomate."
+              },
+              {
+                "nome": "Salada de frango com legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cozido e desfiado",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture todos os ingredientes em uma tigela. Tempere com sal, azeite e vinagre balsâmico."
+              },
+              {
+                "nome": "Risoto de cogumelos com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Queijo parmesão ralado",
+                    "quantidade": "1/4 de xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione os cogumelos picados e deixe cozinhar por alguns minutos. Misture o arroz e os cogumelos na panela e mexa bem. Acrescente o queijo parmesão ralado ao final e sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Lanche da tarde",
+            "receitas": [
+              {
+                "nome": "Iogurte com granola e frutas",
+                "ingredientes": [
+                  {
+                    "nome": "Iogurte natural",
+                    "quantidade": "1 pote"
+                  },
+                  {
+                    "nome": "Granola",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Morango",
+                    "quantidade": "5 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture o iogurte com a granola em um pote. Adicione os morangos picados por cima."
+              },
+              {
+                "nome": "Pão integral com queijo branco e peito de peru",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Peito de peru",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o peito de peru entre as fatias de pão integral."
+              },
+              {
+                "nome": "Smoothie de abacate com banana e leite de coco",
+                "ingredientes": [
+                  {
+                    "nome": "Abacate",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de coco",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Torrada integral com patê de atum",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Atum em conserva",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Salsinha picada",
+                    "quantidade": "1 colher de sopa"
+                  }
+                ],
+                "modo_preparo": "Misture o atum em conserva, a cebola picada e a salsinha em uma tigela. Passe o patê sobre as fatias de pão integral. Leve ao forno para que a torrada fique crocante."
+              }
+            ]
+          },
+          {
+            "nome": "Jantar",
+            "receitas": [
+              {
+                "nome": "Salmão grelhado com legumes no vapor",
+                "ingredientes": [
+                  {
+                    "nome": "Salmão",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Pimentão",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Tempere o salmão com sal e pimenta a gosto. Grelhe em uma frigideira antiaderente até que esteja cozido por dentro e crocante por fora. Corte os legumes em pedaços pequenos e cozinhe no vapor por alguns minutos. Sirva o salmão com os legumes."
+              },
+              {
+                "nome": "Strogonoff de frango com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cortado em cubos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Molho de tomate",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Creme de leite",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em um panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o frango e deixe dourar por alguns minutos. Adicione os cogumelos picados e misture. Adicione o molho de tomate e deixe cozinhar por alguns minutos. Por fim, misture o creme de leite e sirva com o arroz integral."
+              },
+              {
+                "nome": "Tortilha de legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Abobrinha picada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate picado",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Queijo branco picado",
+                    "quantidade": "1/2 xícara"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione os legumes picados e o queijo branco e misture. Despeje a mistura em uma frigideira aquecida e deixe cozinhar até que a tortilha esteja firme. Vire para que cozinhe do outro lado. Sirva."
+              },
+              {
+                "nome": "Peito de frango grelhado com salada verde",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Vinagrete",
+                    "quantidade": "a gosto"
+                  }
+                ],
+                "modo_preparo": "Grelhe o peito de frango em uma frigideira antiaderente. Sirva com a salada verde temperada com vinagrete."
+              }
+            ]
+          }
+        ]
+      },
+      "id": 3
+    },
+    {
+      "dados": {
+        "peso": "79kg",
+        "altura": "1.75cm",
+        "idade": "21 anos",
+        "tipo_de_dieta": "Sem preferências",
+        "duração_do_plano": "1 mês",
+        "preferências": "Arroz, pão e legumes",
+        "objetivo": "Alimentação mais saudável",
+        "alergia": "Chocolate",
+        "refeições": "4 por dia",
+        "renda": "2 mil reais"
+      },
+      "plano_alimentício": {
+        "calorias_diárias": "2000",
+        "macronutrientes": {
+          "proteínas": "20%",
+          "carboidratos": "50%",
+          "gorduras": "30%"
+        },
+        "refeições": [
+          {
+            "nome": "Café da manhã",
+            "receitas": [
+              {
+                "nome": "Tigela de aveia com banana",
+                "ingredientes": [
+                  {
+                    "nome": "Aveia em flocos",
+                    "quantidade": "50g"
+                  },
+                  {
+                    "nome": "Leite de amêndoas",
+                    "quantidade": "200ml"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Canela",
+                    "quantidade": "1 colher de chá"
+                  }
+                ],
+                "modo_preparo": "Misture a aveia com o leite de amêndoas e leve ao fogo até formar um mingau. Sirva em uma tigela com a banana cortada em rodelas e a canela por cima."
+              },
+              {
+                "nome": "Sanduíche de pão integral com queijo e tomate",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Tomate",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o tomate entre as fatias de pão integral. Leve ao forno para que o queijo derreta um pouco."
+              },
+              {
+                "nome": "Vitamina de morango e banana",
+                "ingredientes": [
+                  {
+                    "nome": "Morangos",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de soja",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Omelete com brócolis e queijo",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione o brócolis picado e as fatias de queijo. Misture bem. Despeje a mistura em uma frigideira aquecida e espere até que a omelete esteja firme. Sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Almoço",
+            "receitas": [
+              {
+                "nome": "Arroz integral com lentilha e legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Lentilha",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Abobrinha",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Ervilha",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral e a lentilha separadamente. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione a abobrinha e a cenoura picadas e a ervilha e refogue mais um pouco. Misture o arroz, a lentilha e os legumes na panela e mexa bem. Sirva."
+              },
+              {
+                "nome": "Macarrão com molho de tomate e almôndegas de frango",
+                "ingredientes": [
+                  {
+                    "nome": "Macarrão integral",
+                    "quantidade": "100g"
+                  },
+                  {
+                    "nome": "Tomate pelado",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Peito de frango moído",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Pão integral ralado",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o macarrão integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o tomate pelado e deixe cozinhar por alguns minutos. Tempere com sal e pimenta. Em uma tigela, misture o peito de frango moído com o pão integral ralado e temperos a gosto. Faça almôndegas e leve ao forno por cerca de 20 minutos. Sirva com o macarrão e o molho de tomate."
+              },
+              {
+                "nome": "Salada de frango com legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cozido e desfiado",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture todos os ingredientes em uma tigela. Tempere com sal, azeite e vinagre balsâmico."
+              },
+              {
+                "nome": "Risoto de cogumelos com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Queijo parmesão ralado",
+                    "quantidade": "1/4 de xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione os cogumelos picados e deixe cozinhar por alguns minutos. Misture o arroz e os cogumelos na panela e mexa bem. Acrescente o queijo parmesão ralado ao final e sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Lanche da tarde",
+            "receitas": [
+              {
+                "nome": "Iogurte com granola e frutas",
+                "ingredientes": [
+                  {
+                    "nome": "Iogurte natural",
+                    "quantidade": "1 pote"
+                  },
+                  {
+                    "nome": "Granola",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Morango",
+                    "quantidade": "5 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture o iogurte com a granola em um pote. Adicione os morangos picados por cima."
+              },
+              {
+                "nome": "Pão integral com queijo branco e peito de peru",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Peito de peru",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o peito de peru entre as fatias de pão integral."
+              },
+              {
+                "nome": "Smoothie de abacate com banana e leite de coco",
+                "ingredientes": [
+                  {
+                    "nome": "Abacate",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de coco",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Torrada integral com patê de atum",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Atum em conserva",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Salsinha picada",
+                    "quantidade": "1 colher de sopa"
+                  }
+                ],
+                "modo_preparo": "Misture o atum em conserva, a cebola picada e a salsinha em uma tigela. Passe o patê sobre as fatias de pão integral. Leve ao forno para que a torrada fique crocante."
+              }
+            ]
+          },
+          {
+            "nome": "Jantar",
+            "receitas": [
+              {
+                "nome": "Salmão grelhado com legumes no vapor",
+                "ingredientes": [
+                  {
+                    "nome": "Salmão",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Pimentão",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Tempere o salmão com sal e pimenta a gosto. Grelhe em uma frigideira antiaderente até que esteja cozido por dentro e crocante por fora. Corte os legumes em pedaços pequenos e cozinhe no vapor por alguns minutos. Sirva o salmão com os legumes."
+              },
+              {
+                "nome": "Strogonoff de frango com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cortado em cubos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Molho de tomate",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Creme de leite",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em um panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o frango e deixe dourar por alguns minutos. Adicione os cogumelos picados e misture. Adicione o molho de tomate e deixe cozinhar por alguns minutos. Por fim, misture o creme de leite e sirva com o arroz integral."
+              },
+              {
+                "nome": "Tortilha de legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Abobrinha picada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate picado",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Queijo branco picado",
+                    "quantidade": "1/2 xícara"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione os legumes picados e o queijo branco e misture. Despeje a mistura em uma frigideira aquecida e deixe cozinhar até que a tortilha esteja firme. Vire para que cozinhe do outro lado. Sirva."
+              },
+              {
+                "nome": "Peito de frango grelhado com salada verde",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Vinagrete",
+                    "quantidade": "a gosto"
+                  }
+                ],
+                "modo_preparo": "Grelhe o peito de frango em uma frigideira antiaderente. Sirva com a salada verde temperada com vinagrete."
+              }
+            ]
+          }
+        ]
+      },
+      "id": 4
+    },
+    {
+      "dados": {
+        "peso": "79kg",
+        "altura": "1.75cm",
+        "idade": "21 anos",
+        "tipo_de_dieta": "Sem preferências",
+        "duração_do_plano": "1 mês",
+        "preferências": "Arroz, pão e legumes",
+        "objetivo": "Alimentação mais saudável",
+        "alergia": "Chocolate",
+        "refeições": "4 por dia",
+        "renda": "2 mil reais"
+      },
+      "plano_alimentício": {
+        "calorias_diárias": "2000",
+        "macronutrientes": {
+          "proteínas": "20%",
+          "carboidratos": "50%",
+          "gorduras": "30%"
+        },
+        "refeições": [
+          {
+            "nome": "Café da manhã",
+            "receitas": [
+              {
+                "nome": "Tigela de aveia com banana",
+                "ingredientes": [
+                  {
+                    "nome": "Aveia em flocos",
+                    "quantidade": "50g"
+                  },
+                  {
+                    "nome": "Leite de amêndoas",
+                    "quantidade": "200ml"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Canela",
+                    "quantidade": "1 colher de chá"
+                  }
+                ],
+                "modo_preparo": "Misture a aveia com o leite de amêndoas e leve ao fogo até formar um mingau. Sirva em uma tigela com a banana cortada em rodelas e a canela por cima."
+              },
+              {
+                "nome": "Sanduíche de pão integral com queijo e tomate",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Tomate",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o tomate entre as fatias de pão integral. Leve ao forno para que o queijo derreta um pouco."
+              },
+              {
+                "nome": "Vitamina de morango e banana",
+                "ingredientes": [
+                  {
+                    "nome": "Morangos",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de soja",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Omelete com brócolis e queijo",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione o brócolis picado e as fatias de queijo. Misture bem. Despeje a mistura em uma frigideira aquecida e espere até que a omelete esteja firme. Sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Almoço",
+            "receitas": [
+              {
+                "nome": "Arroz integral com lentilha e legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Lentilha",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Abobrinha",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Ervilha",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral e a lentilha separadamente. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione a abobrinha e a cenoura picadas e a ervilha e refogue mais um pouco. Misture o arroz, a lentilha e os legumes na panela e mexa bem. Sirva."
+              },
+              {
+                "nome": "Macarrão com molho de tomate e almôndegas de frango",
+                "ingredientes": [
+                  {
+                    "nome": "Macarrão integral",
+                    "quantidade": "100g"
+                  },
+                  {
+                    "nome": "Tomate pelado",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Peito de frango moído",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Pão integral ralado",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o macarrão integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o tomate pelado e deixe cozinhar por alguns minutos. Tempere com sal e pimenta. Em uma tigela, misture o peito de frango moído com o pão integral ralado e temperos a gosto. Faça almôndegas e leve ao forno por cerca de 20 minutos. Sirva com o macarrão e o molho de tomate."
+              },
+              {
+                "nome": "Salada de frango com legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cozido e desfiado",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture todos os ingredientes em uma tigela. Tempere com sal, azeite e vinagre balsâmico."
+              },
+              {
+                "nome": "Risoto de cogumelos com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Queijo parmesão ralado",
+                    "quantidade": "1/4 de xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione os cogumelos picados e deixe cozinhar por alguns minutos. Misture o arroz e os cogumelos na panela e mexa bem. Acrescente o queijo parmesão ralado ao final e sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Lanche da tarde",
+            "receitas": [
+              {
+                "nome": "Iogurte com granola e frutas",
+                "ingredientes": [
+                  {
+                    "nome": "Iogurte natural",
+                    "quantidade": "1 pote"
+                  },
+                  {
+                    "nome": "Granola",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Morango",
+                    "quantidade": "5 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture o iogurte com a granola em um pote. Adicione os morangos picados por cima."
+              },
+              {
+                "nome": "Pão integral com queijo branco e peito de peru",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Peito de peru",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o peito de peru entre as fatias de pão integral."
+              },
+              {
+                "nome": "Smoothie de abacate com banana e leite de coco",
+                "ingredientes": [
+                  {
+                    "nome": "Abacate",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de coco",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Torrada integral com patê de atum",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Atum em conserva",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Salsinha picada",
+                    "quantidade": "1 colher de sopa"
+                  }
+                ],
+                "modo_preparo": "Misture o atum em conserva, a cebola picada e a salsinha em uma tigela. Passe o patê sobre as fatias de pão integral. Leve ao forno para que a torrada fique crocante."
+              }
+            ]
+          },
+          {
+            "nome": "Jantar",
+            "receitas": [
+              {
+                "nome": "Salmão grelhado com legumes no vapor",
+                "ingredientes": [
+                  {
+                    "nome": "Salmão",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Pimentão",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Tempere o salmão com sal e pimenta a gosto. Grelhe em uma frigideira antiaderente até que esteja cozido por dentro e crocante por fora. Corte os legumes em pedaços pequenos e cozinhe no vapor por alguns minutos. Sirva o salmão com os legumes."
+              },
+              {
+                "nome": "Strogonoff de frango com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cortado em cubos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Molho de tomate",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Creme de leite",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em um panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o frango e deixe dourar por alguns minutos. Adicione os cogumelos picados e misture. Adicione o molho de tomate e deixe cozinhar por alguns minutos. Por fim, misture o creme de leite e sirva com o arroz integral."
+              },
+              {
+                "nome": "Tortilha de legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Abobrinha picada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate picado",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Queijo branco picado",
+                    "quantidade": "1/2 xícara"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione os legumes picados e o queijo branco e misture. Despeje a mistura em uma frigideira aquecida e deixe cozinhar até que a tortilha esteja firme. Vire para que cozinhe do outro lado. Sirva."
+              },
+              {
+                "nome": "Peito de frango grelhado com salada verde",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Vinagrete",
+                    "quantidade": "a gosto"
+                  }
+                ],
+                "modo_preparo": "Grelhe o peito de frango em uma frigideira antiaderente. Sirva com a salada verde temperada com vinagrete."
+              }
+            ]
+          }
+        ]
+      },
+      "id": 5
+    },
+    {
+      "dados": {
+        "peso": "79kg",
+        "altura": "1.75cm",
+        "idade": "21 anos",
+        "tipo_de_dieta": "Sem preferências",
+        "duração_do_plano": "1 mês",
+        "preferências": "Arroz, pão e legumes",
+        "objetivo": "Alimentação mais saudável",
+        "alergia": "Chocolate",
+        "refeições": "4 por dia",
+        "renda": "2 mil reais"
+      },
+      "plano_alimentício": {
+        "calorias_diárias": "2000",
+        "macronutrientes": {
+          "proteínas": "20%",
+          "carboidratos": "50%",
+          "gorduras": "30%"
+        },
+        "refeições": [
+          {
+            "nome": "Café da manhã",
+            "receitas": [
+              {
+                "nome": "Tigela de aveia com banana",
+                "ingredientes": [
+                  {
+                    "nome": "Aveia em flocos",
+                    "quantidade": "50g"
+                  },
+                  {
+                    "nome": "Leite de amêndoas",
+                    "quantidade": "200ml"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Canela",
+                    "quantidade": "1 colher de chá"
+                  }
+                ],
+                "modo_preparo": "Misture a aveia com o leite de amêndoas e leve ao fogo até formar um mingau. Sirva em uma tigela com a banana cortada em rodelas e a canela por cima."
+              },
+              {
+                "nome": "Sanduíche de pão integral com queijo e tomate",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Tomate",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o tomate entre as fatias de pão integral. Leve ao forno para que o queijo derreta um pouco."
+              },
+              {
+                "nome": "Vitamina de morango e banana",
+                "ingredientes": [
+                  {
+                    "nome": "Morangos",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de soja",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Omelete com brócolis e queijo",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione o brócolis picado e as fatias de queijo. Misture bem. Despeje a mistura em uma frigideira aquecida e espere até que a omelete esteja firme. Sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Almoço",
+            "receitas": [
+              {
+                "nome": "Arroz integral com lentilha e legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Lentilha",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Abobrinha",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Ervilha",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral e a lentilha separadamente. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione a abobrinha e a cenoura picadas e a ervilha e refogue mais um pouco. Misture o arroz, a lentilha e os legumes na panela e mexa bem. Sirva."
+              },
+              {
+                "nome": "Macarrão com molho de tomate e almôndegas de frango",
+                "ingredientes": [
+                  {
+                    "nome": "Macarrão integral",
+                    "quantidade": "100g"
+                  },
+                  {
+                    "nome": "Tomate pelado",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Peito de frango moído",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Pão integral ralado",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o macarrão integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o tomate pelado e deixe cozinhar por alguns minutos. Tempere com sal e pimenta. Em uma tigela, misture o peito de frango moído com o pão integral ralado e temperos a gosto. Faça almôndegas e leve ao forno por cerca de 20 minutos. Sirva com o macarrão e o molho de tomate."
+              },
+              {
+                "nome": "Salada de frango com legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cozido e desfiado",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture todos os ingredientes em uma tigela. Tempere com sal, azeite e vinagre balsâmico."
+              },
+              {
+                "nome": "Risoto de cogumelos com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Queijo parmesão ralado",
+                    "quantidade": "1/4 de xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione os cogumelos picados e deixe cozinhar por alguns minutos. Misture o arroz e os cogumelos na panela e mexa bem. Acrescente o queijo parmesão ralado ao final e sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Lanche da tarde",
+            "receitas": [
+              {
+                "nome": "Iogurte com granola e frutas",
+                "ingredientes": [
+                  {
+                    "nome": "Iogurte natural",
+                    "quantidade": "1 pote"
+                  },
+                  {
+                    "nome": "Granola",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Morango",
+                    "quantidade": "5 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture o iogurte com a granola em um pote. Adicione os morangos picados por cima."
+              },
+              {
+                "nome": "Pão integral com queijo branco e peito de peru",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Peito de peru",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o peito de peru entre as fatias de pão integral."
+              },
+              {
+                "nome": "Smoothie de abacate com banana e leite de coco",
+                "ingredientes": [
+                  {
+                    "nome": "Abacate",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de coco",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Torrada integral com patê de atum",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Atum em conserva",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Salsinha picada",
+                    "quantidade": "1 colher de sopa"
+                  }
+                ],
+                "modo_preparo": "Misture o atum em conserva, a cebola picada e a salsinha em uma tigela. Passe o patê sobre as fatias de pão integral. Leve ao forno para que a torrada fique crocante."
+              }
+            ]
+          },
+          {
+            "nome": "Jantar",
+            "receitas": [
+              {
+                "nome": "Salmão grelhado com legumes no vapor",
+                "ingredientes": [
+                  {
+                    "nome": "Salmão",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Pimentão",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Tempere o salmão com sal e pimenta a gosto. Grelhe em uma frigideira antiaderente até que esteja cozido por dentro e crocante por fora. Corte os legumes em pedaços pequenos e cozinhe no vapor por alguns minutos. Sirva o salmão com os legumes."
+              },
+              {
+                "nome": "Strogonoff de frango com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cortado em cubos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Molho de tomate",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Creme de leite",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em um panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o frango e deixe dourar por alguns minutos. Adicione os cogumelos picados e misture. Adicione o molho de tomate e deixe cozinhar por alguns minutos. Por fim, misture o creme de leite e sirva com o arroz integral."
+              },
+              {
+                "nome": "Tortilha de legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Abobrinha picada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate picado",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Queijo branco picado",
+                    "quantidade": "1/2 xícara"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione os legumes picados e o queijo branco e misture. Despeje a mistura em uma frigideira aquecida e deixe cozinhar até que a tortilha esteja firme. Vire para que cozinhe do outro lado. Sirva."
+              },
+              {
+                "nome": "Peito de frango grelhado com salada verde",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Vinagrete",
+                    "quantidade": "a gosto"
+                  }
+                ],
+                "modo_preparo": "Grelhe o peito de frango em uma frigideira antiaderente. Sirva com a salada verde temperada com vinagrete."
+              }
+            ]
+          }
+        ]
+      },
+      "id": 6
+    },
+    {
+      "dados": {
+        "peso": "79kg",
+        "altura": "1.75cm",
+        "idade": "21 anos",
+        "tipo_de_dieta": "Sem preferências",
+        "duração_do_plano": "1 mês",
+        "preferências": "Arroz, pão e legumes",
+        "objetivo": "Alimentação mais saudável",
+        "alergia": "Chocolate",
+        "refeições": "4 por dia",
+        "renda": "2 mil reais"
+      },
+      "plano_alimentício": {
+        "calorias_diárias": "2000",
+        "macronutrientes": {
+          "proteínas": "20%",
+          "carboidratos": "50%",
+          "gorduras": "30%"
+        },
+        "refeições": [
+          {
+            "nome": "Café da manhã",
+            "receitas": [
+              {
+                "nome": "Tigela de aveia com banana",
+                "ingredientes": [
+                  {
+                    "nome": "Aveia em flocos",
+                    "quantidade": "50g"
+                  },
+                  {
+                    "nome": "Leite de amêndoas",
+                    "quantidade": "200ml"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Canela",
+                    "quantidade": "1 colher de chá"
+                  }
+                ],
+                "modo_preparo": "Misture a aveia com o leite de amêndoas e leve ao fogo até formar um mingau. Sirva em uma tigela com a banana cortada em rodelas e a canela por cima."
+              },
+              {
+                "nome": "Sanduíche de pão integral com queijo e tomate",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Tomate",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o tomate entre as fatias de pão integral. Leve ao forno para que o queijo derreta um pouco."
+              },
+              {
+                "nome": "Vitamina de morango e banana",
+                "ingredientes": [
+                  {
+                    "nome": "Morangos",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de soja",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Omelete com brócolis e queijo",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione o brócolis picado e as fatias de queijo. Misture bem. Despeje a mistura em uma frigideira aquecida e espere até que a omelete esteja firme. Sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Almoço",
+            "receitas": [
+              {
+                "nome": "Arroz integral com lentilha e legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Lentilha",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Abobrinha",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Ervilha",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral e a lentilha separadamente. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione a abobrinha e a cenoura picadas e a ervilha e refogue mais um pouco. Misture o arroz, a lentilha e os legumes na panela e mexa bem. Sirva."
+              },
+              {
+                "nome": "Macarrão com molho de tomate e almôndegas de frango",
+                "ingredientes": [
+                  {
+                    "nome": "Macarrão integral",
+                    "quantidade": "100g"
+                  },
+                  {
+                    "nome": "Tomate pelado",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Peito de frango moído",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Pão integral ralado",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o macarrão integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o tomate pelado e deixe cozinhar por alguns minutos. Tempere com sal e pimenta. Em uma tigela, misture o peito de frango moído com o pão integral ralado e temperos a gosto. Faça almôndegas e leve ao forno por cerca de 20 minutos. Sirva com o macarrão e o molho de tomate."
+              },
+              {
+                "nome": "Salada de frango com legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cozido e desfiado",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture todos os ingredientes em uma tigela. Tempere com sal, azeite e vinagre balsâmico."
+              },
+              {
+                "nome": "Risoto de cogumelos com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Queijo parmesão ralado",
+                    "quantidade": "1/4 de xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione os cogumelos picados e deixe cozinhar por alguns minutos. Misture o arroz e os cogumelos na panela e mexa bem. Acrescente o queijo parmesão ralado ao final e sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Lanche da tarde",
+            "receitas": [
+              {
+                "nome": "Iogurte com granola e frutas",
+                "ingredientes": [
+                  {
+                    "nome": "Iogurte natural",
+                    "quantidade": "1 pote"
+                  },
+                  {
+                    "nome": "Granola",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Morango",
+                    "quantidade": "5 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture o iogurte com a granola em um pote. Adicione os morangos picados por cima."
+              },
+              {
+                "nome": "Pão integral com queijo branco e peito de peru",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Peito de peru",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o peito de peru entre as fatias de pão integral."
+              },
+              {
+                "nome": "Smoothie de abacate com banana e leite de coco",
+                "ingredientes": [
+                  {
+                    "nome": "Abacate",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de coco",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Torrada integral com patê de atum",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Atum em conserva",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Salsinha picada",
+                    "quantidade": "1 colher de sopa"
+                  }
+                ],
+                "modo_preparo": "Misture o atum em conserva, a cebola picada e a salsinha em uma tigela. Passe o patê sobre as fatias de pão integral. Leve ao forno para que a torrada fique crocante."
+              }
+            ]
+          },
+          {
+            "nome": "Jantar",
+            "receitas": [
+              {
+                "nome": "Salmão grelhado com legumes no vapor",
+                "ingredientes": [
+                  {
+                    "nome": "Salmão",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Pimentão",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Tempere o salmão com sal e pimenta a gosto. Grelhe em uma frigideira antiaderente até que esteja cozido por dentro e crocante por fora. Corte os legumes em pedaços pequenos e cozinhe no vapor por alguns minutos. Sirva o salmão com os legumes."
+              },
+              {
+                "nome": "Strogonoff de frango com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cortado em cubos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Molho de tomate",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Creme de leite",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em um panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o frango e deixe dourar por alguns minutos. Adicione os cogumelos picados e misture. Adicione o molho de tomate e deixe cozinhar por alguns minutos. Por fim, misture o creme de leite e sirva com o arroz integral."
+              },
+              {
+                "nome": "Tortilha de legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Abobrinha picada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate picado",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Queijo branco picado",
+                    "quantidade": "1/2 xícara"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione os legumes picados e o queijo branco e misture. Despeje a mistura em uma frigideira aquecida e deixe cozinhar até que a tortilha esteja firme. Vire para que cozinhe do outro lado. Sirva."
+              },
+              {
+                "nome": "Peito de frango grelhado com salada verde",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Vinagrete",
+                    "quantidade": "a gosto"
+                  }
+                ],
+                "modo_preparo": "Grelhe o peito de frango em uma frigideira antiaderente. Sirva com a salada verde temperada com vinagrete."
+              }
+            ]
+          }
+        ]
+      },
+      "id": 7
+    },
+    {
+      "dados": {
+        "peso": "79kg",
+        "altura": "1.75cm",
+        "idade": "21 anos",
+        "tipo_de_dieta": "Sem preferências",
+        "duração_do_plano": "1 mês",
+        "preferências": "Arroz, pão e legumes",
+        "objetivo": "Alimentação mais saudável",
+        "alergia": "Chocolate",
+        "refeições": "4 por dia",
+        "renda": "2 mil reais"
+      },
+      "plano_alimentício": {
+        "calorias_diárias": "2000",
+        "macronutrientes": {
+          "proteínas": "20%",
+          "carboidratos": "50%",
+          "gorduras": "30%"
+        },
+        "refeições": [
+          {
+            "nome": "Café da manhã",
+            "receitas": [
+              {
+                "nome": "Tigela de aveia com banana",
+                "ingredientes": [
+                  {
+                    "nome": "Aveia em flocos",
+                    "quantidade": "50g"
+                  },
+                  {
+                    "nome": "Leite de amêndoas",
+                    "quantidade": "200ml"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Canela",
+                    "quantidade": "1 colher de chá"
+                  }
+                ],
+                "modo_preparo": "Misture a aveia com o leite de amêndoas e leve ao fogo até formar um mingau. Sirva em uma tigela com a banana cortada em rodelas e a canela por cima."
+              },
+              {
+                "nome": "Sanduíche de pão integral com queijo e tomate",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Tomate",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o tomate entre as fatias de pão integral. Leve ao forno para que o queijo derreta um pouco."
+              },
+              {
+                "nome": "Vitamina de morango e banana",
+                "ingredientes": [
+                  {
+                    "nome": "Morangos",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de soja",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Omelete com brócolis e queijo",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione o brócolis picado e as fatias de queijo. Misture bem. Despeje a mistura em uma frigideira aquecida e espere até que a omelete esteja firme. Sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Almoço",
+            "receitas": [
+              {
+                "nome": "Arroz integral com lentilha e legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Lentilha",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Abobrinha",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Ervilha",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral e a lentilha separadamente. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione a abobrinha e a cenoura picadas e a ervilha e refogue mais um pouco. Misture o arroz, a lentilha e os legumes na panela e mexa bem. Sirva."
+              },
+              {
+                "nome": "Macarrão com molho de tomate e almôndegas de frango",
+                "ingredientes": [
+                  {
+                    "nome": "Macarrão integral",
+                    "quantidade": "100g"
+                  },
+                  {
+                    "nome": "Tomate pelado",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Peito de frango moído",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Pão integral ralado",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o macarrão integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o tomate pelado e deixe cozinhar por alguns minutos. Tempere com sal e pimenta. Em uma tigela, misture o peito de frango moído com o pão integral ralado e temperos a gosto. Faça almôndegas e leve ao forno por cerca de 20 minutos. Sirva com o macarrão e o molho de tomate."
+              },
+              {
+                "nome": "Salada de frango com legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cozido e desfiado",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture todos os ingredientes em uma tigela. Tempere com sal, azeite e vinagre balsâmico."
+              },
+              {
+                "nome": "Risoto de cogumelos com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Queijo parmesão ralado",
+                    "quantidade": "1/4 de xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione os cogumelos picados e deixe cozinhar por alguns minutos. Misture o arroz e os cogumelos na panela e mexa bem. Acrescente o queijo parmesão ralado ao final e sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Lanche da tarde",
+            "receitas": [
+              {
+                "nome": "Iogurte com granola e frutas",
+                "ingredientes": [
+                  {
+                    "nome": "Iogurte natural",
+                    "quantidade": "1 pote"
+                  },
+                  {
+                    "nome": "Granola",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Morango",
+                    "quantidade": "5 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture o iogurte com a granola em um pote. Adicione os morangos picados por cima."
+              },
+              {
+                "nome": "Pão integral com queijo branco e peito de peru",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Peito de peru",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o peito de peru entre as fatias de pão integral."
+              },
+              {
+                "nome": "Smoothie de abacate com banana e leite de coco",
+                "ingredientes": [
+                  {
+                    "nome": "Abacate",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de coco",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Torrada integral com patê de atum",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Atum em conserva",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Salsinha picada",
+                    "quantidade": "1 colher de sopa"
+                  }
+                ],
+                "modo_preparo": "Misture o atum em conserva, a cebola picada e a salsinha em uma tigela. Passe o patê sobre as fatias de pão integral. Leve ao forno para que a torrada fique crocante."
+              }
+            ]
+          },
+          {
+            "nome": "Jantar",
+            "receitas": [
+              {
+                "nome": "Salmão grelhado com legumes no vapor",
+                "ingredientes": [
+                  {
+                    "nome": "Salmão",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Pimentão",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Tempere o salmão com sal e pimenta a gosto. Grelhe em uma frigideira antiaderente até que esteja cozido por dentro e crocante por fora. Corte os legumes em pedaços pequenos e cozinhe no vapor por alguns minutos. Sirva o salmão com os legumes."
+              },
+              {
+                "nome": "Strogonoff de frango com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cortado em cubos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Molho de tomate",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Creme de leite",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em um panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o frango e deixe dourar por alguns minutos. Adicione os cogumelos picados e misture. Adicione o molho de tomate e deixe cozinhar por alguns minutos. Por fim, misture o creme de leite e sirva com o arroz integral."
+              },
+              {
+                "nome": "Tortilha de legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Abobrinha picada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate picado",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Queijo branco picado",
+                    "quantidade": "1/2 xícara"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione os legumes picados e o queijo branco e misture. Despeje a mistura em uma frigideira aquecida e deixe cozinhar até que a tortilha esteja firme. Vire para que cozinhe do outro lado. Sirva."
+              },
+              {
+                "nome": "Peito de frango grelhado com salada verde",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Vinagrete",
+                    "quantidade": "a gosto"
+                  }
+                ],
+                "modo_preparo": "Grelhe o peito de frango em uma frigideira antiaderente. Sirva com a salada verde temperada com vinagrete."
+              }
+            ]
+          }
+        ]
+      },
+      "id": 8
+    },
+    {
+      "dados": {
+        "peso": "79kg",
+        "altura": "1.75cm",
+        "idade": "21 anos",
+        "tipo_de_dieta": "Sem preferências",
+        "duração_do_plano": "1 mês",
+        "preferências": "Arroz, pão e legumes",
+        "objetivo": "Alimentação mais saudável",
+        "alergia": "Chocolate",
+        "refeições": "4 por dia",
+        "renda": "2 mil reais"
+      },
+      "plano_alimentício": {
+        "calorias_diárias": "2000",
+        "macronutrientes": {
+          "proteínas": "20%",
+          "carboidratos": "50%",
+          "gorduras": "30%"
+        },
+        "refeições": [
+          {
+            "nome": "Café da manhã",
+            "receitas": [
+              {
+                "nome": "Tigela de aveia com banana",
+                "ingredientes": [
+                  {
+                    "nome": "Aveia em flocos",
+                    "quantidade": "50g"
+                  },
+                  {
+                    "nome": "Leite de amêndoas",
+                    "quantidade": "200ml"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Canela",
+                    "quantidade": "1 colher de chá"
+                  }
+                ],
+                "modo_preparo": "Misture a aveia com o leite de amêndoas e leve ao fogo até formar um mingau. Sirva em uma tigela com a banana cortada em rodelas e a canela por cima."
+              },
+              {
+                "nome": "Sanduíche de pão integral com queijo e tomate",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Tomate",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o tomate entre as fatias de pão integral. Leve ao forno para que o queijo derreta um pouco."
+              },
+              {
+                "nome": "Vitamina de morango e banana",
+                "ingredientes": [
+                  {
+                    "nome": "Morangos",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de soja",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Omelete com brócolis e queijo",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione o brócolis picado e as fatias de queijo. Misture bem. Despeje a mistura em uma frigideira aquecida e espere até que a omelete esteja firme. Sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Almoço",
+            "receitas": [
+              {
+                "nome": "Arroz integral com lentilha e legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Lentilha",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Abobrinha",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Ervilha",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral e a lentilha separadamente. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione a abobrinha e a cenoura picadas e a ervilha e refogue mais um pouco. Misture o arroz, a lentilha e os legumes na panela e mexa bem. Sirva."
+              },
+              {
+                "nome": "Macarrão com molho de tomate e almôndegas de frango",
+                "ingredientes": [
+                  {
+                    "nome": "Macarrão integral",
+                    "quantidade": "100g"
+                  },
+                  {
+                    "nome": "Tomate pelado",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Peito de frango moído",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Pão integral ralado",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o macarrão integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o tomate pelado e deixe cozinhar por alguns minutos. Tempere com sal e pimenta. Em uma tigela, misture o peito de frango moído com o pão integral ralado e temperos a gosto. Faça almôndegas e leve ao forno por cerca de 20 minutos. Sirva com o macarrão e o molho de tomate."
+              },
+              {
+                "nome": "Salada de frango com legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cozido e desfiado",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture todos os ingredientes em uma tigela. Tempere com sal, azeite e vinagre balsâmico."
+              },
+              {
+                "nome": "Risoto de cogumelos com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Queijo parmesão ralado",
+                    "quantidade": "1/4 de xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione os cogumelos picados e deixe cozinhar por alguns minutos. Misture o arroz e os cogumelos na panela e mexa bem. Acrescente o queijo parmesão ralado ao final e sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Lanche da tarde",
+            "receitas": [
+              {
+                "nome": "Iogurte com granola e frutas",
+                "ingredientes": [
+                  {
+                    "nome": "Iogurte natural",
+                    "quantidade": "1 pote"
+                  },
+                  {
+                    "nome": "Granola",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Morango",
+                    "quantidade": "5 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture o iogurte com a granola em um pote. Adicione os morangos picados por cima."
+              },
+              {
+                "nome": "Pão integral com queijo branco e peito de peru",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Peito de peru",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o peito de peru entre as fatias de pão integral."
+              },
+              {
+                "nome": "Smoothie de abacate com banana e leite de coco",
+                "ingredientes": [
+                  {
+                    "nome": "Abacate",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de coco",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Torrada integral com patê de atum",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Atum em conserva",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Salsinha picada",
+                    "quantidade": "1 colher de sopa"
+                  }
+                ],
+                "modo_preparo": "Misture o atum em conserva, a cebola picada e a salsinha em uma tigela. Passe o patê sobre as fatias de pão integral. Leve ao forno para que a torrada fique crocante."
+              }
+            ]
+          },
+          {
+            "nome": "Jantar",
+            "receitas": [
+              {
+                "nome": "Salmão grelhado com legumes no vapor",
+                "ingredientes": [
+                  {
+                    "nome": "Salmão",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Pimentão",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Tempere o salmão com sal e pimenta a gosto. Grelhe em uma frigideira antiaderente até que esteja cozido por dentro e crocante por fora. Corte os legumes em pedaços pequenos e cozinhe no vapor por alguns minutos. Sirva o salmão com os legumes."
+              },
+              {
+                "nome": "Strogonoff de frango com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cortado em cubos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Molho de tomate",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Creme de leite",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em um panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o frango e deixe dourar por alguns minutos. Adicione os cogumelos picados e misture. Adicione o molho de tomate e deixe cozinhar por alguns minutos. Por fim, misture o creme de leite e sirva com o arroz integral."
+              },
+              {
+                "nome": "Tortilha de legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Abobrinha picada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate picado",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Queijo branco picado",
+                    "quantidade": "1/2 xícara"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione os legumes picados e o queijo branco e misture. Despeje a mistura em uma frigideira aquecida e deixe cozinhar até que a tortilha esteja firme. Vire para que cozinhe do outro lado. Sirva."
+              },
+              {
+                "nome": "Peito de frango grelhado com salada verde",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Vinagrete",
+                    "quantidade": "a gosto"
+                  }
+                ],
+                "modo_preparo": "Grelhe o peito de frango em uma frigideira antiaderente. Sirva com a salada verde temperada com vinagrete."
+              }
+            ]
+          }
+        ]
+      },
+      "id": 9
+    },
+    {
+      "dados": {
+        "peso": "79kg",
+        "altura": "1.75cm",
+        "idade": "21 anos",
+        "tipo_de_dieta": "Sem preferências",
+        "duração_do_plano": "1 mês",
+        "preferências": "Arroz, pão e legumes",
+        "objetivo": "Alimentação mais saudável",
+        "alergia": "Chocolate",
+        "refeições": "4 por dia",
+        "renda": "2 mil reais"
+      },
+      "plano_alimentício": {
+        "calorias_diárias": "2000",
+        "macronutrientes": {
+          "proteínas": "20%",
+          "carboidratos": "50%",
+          "gorduras": "30%"
+        },
+        "refeições": [
+          {
+            "nome": "Café da manhã",
+            "receitas": [
+              {
+                "nome": "Tigela de aveia com banana",
+                "ingredientes": [
+                  {
+                    "nome": "Aveia em flocos",
+                    "quantidade": "50g"
+                  },
+                  {
+                    "nome": "Leite de amêndoas",
+                    "quantidade": "200ml"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Canela",
+                    "quantidade": "1 colher de chá"
+                  }
+                ],
+                "modo_preparo": "Misture a aveia com o leite de amêndoas e leve ao fogo até formar um mingau. Sirva em uma tigela com a banana cortada em rodelas e a canela por cima."
+              },
+              {
+                "nome": "Sanduíche de pão integral com queijo e tomate",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Tomate",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o tomate entre as fatias de pão integral. Leve ao forno para que o queijo derreta um pouco."
+              },
+              {
+                "nome": "Vitamina de morango e banana",
+                "ingredientes": [
+                  {
+                    "nome": "Morangos",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de soja",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Omelete com brócolis e queijo",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione o brócolis picado e as fatias de queijo. Misture bem. Despeje a mistura em uma frigideira aquecida e espere até que a omelete esteja firme. Sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Almoço",
+            "receitas": [
+              {
+                "nome": "Arroz integral com lentilha e legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Lentilha",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Abobrinha",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Ervilha",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral e a lentilha separadamente. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione a abobrinha e a cenoura picadas e a ervilha e refogue mais um pouco. Misture o arroz, a lentilha e os legumes na panela e mexa bem. Sirva."
+              },
+              {
+                "nome": "Macarrão com molho de tomate e almôndegas de frango",
+                "ingredientes": [
+                  {
+                    "nome": "Macarrão integral",
+                    "quantidade": "100g"
+                  },
+                  {
+                    "nome": "Tomate pelado",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Peito de frango moído",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Pão integral ralado",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o macarrão integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o tomate pelado e deixe cozinhar por alguns minutos. Tempere com sal e pimenta. Em uma tigela, misture o peito de frango moído com o pão integral ralado e temperos a gosto. Faça almôndegas e leve ao forno por cerca de 20 minutos. Sirva com o macarrão e o molho de tomate."
+              },
+              {
+                "nome": "Salada de frango com legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cozido e desfiado",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture todos os ingredientes em uma tigela. Tempere com sal, azeite e vinagre balsâmico."
+              },
+              {
+                "nome": "Risoto de cogumelos com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Queijo parmesão ralado",
+                    "quantidade": "1/4 de xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em uma panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione os cogumelos picados e deixe cozinhar por alguns minutos. Misture o arroz e os cogumelos na panela e mexa bem. Acrescente o queijo parmesão ralado ao final e sirva."
+              }
+            ]
+          },
+          {
+            "nome": "Lanche da tarde",
+            "receitas": [
+              {
+                "nome": "Iogurte com granola e frutas",
+                "ingredientes": [
+                  {
+                    "nome": "Iogurte natural",
+                    "quantidade": "1 pote"
+                  },
+                  {
+                    "nome": "Granola",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Morango",
+                    "quantidade": "5 unidades"
+                  }
+                ],
+                "modo_preparo": "Misture o iogurte com a granola em um pote. Adicione os morangos picados por cima."
+              },
+              {
+                "nome": "Pão integral com queijo branco e peito de peru",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Queijo branco",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Peito de peru",
+                    "quantidade": "2 fatias"
+                  }
+                ],
+                "modo_preparo": "Monte o sanduíche com o queijo e o peito de peru entre as fatias de pão integral."
+              },
+              {
+                "nome": "Smoothie de abacate com banana e leite de coco",
+                "ingredientes": [
+                  {
+                    "nome": "Abacate",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Banana",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Leite de coco",
+                    "quantidade": "200ml"
+                  }
+                ],
+                "modo_preparo": "Bata todos os ingredientes no liquidificador até ficar homogêneo. Sirva em um copo."
+              },
+              {
+                "nome": "Torrada integral com patê de atum",
+                "ingredientes": [
+                  {
+                    "nome": "Pão integral",
+                    "quantidade": "2 fatias"
+                  },
+                  {
+                    "nome": "Atum em conserva",
+                    "quantidade": "1 lata"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1/2 unidade"
+                  },
+                  {
+                    "nome": "Salsinha picada",
+                    "quantidade": "1 colher de sopa"
+                  }
+                ],
+                "modo_preparo": "Misture o atum em conserva, a cebola picada e a salsinha em uma tigela. Passe o patê sobre as fatias de pão integral. Leve ao forno para que a torrada fique crocante."
+              }
+            ]
+          },
+          {
+            "nome": "Jantar",
+            "receitas": [
+              {
+                "nome": "Salmão grelhado com legumes no vapor",
+                "ingredientes": [
+                  {
+                    "nome": "Salmão",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Brócolis",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Cenoura",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Pimentão",
+                    "quantidade": "1 unidade"
+                  }
+                ],
+                "modo_preparo": "Tempere o salmão com sal e pimenta a gosto. Grelhe em uma frigideira antiaderente até que esteja cozido por dentro e crocante por fora. Corte os legumes em pedaços pequenos e cozinhe no vapor por alguns minutos. Sirva o salmão com os legumes."
+              },
+              {
+                "nome": "Strogonoff de frango com arroz integral",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango cortado em cubos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Alho",
+                    "quantidade": "2 dentes"
+                  },
+                  {
+                    "nome": "Cogumelos frescos",
+                    "quantidade": "200g"
+                  },
+                  {
+                    "nome": "Molho de tomate",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Creme de leite",
+                    "quantidade": "1/2 xícara"
+                  },
+                  {
+                    "nome": "Arroz integral",
+                    "quantidade": "1 xícara"
+                  }
+                ],
+                "modo_preparo": "Cozinhe o arroz integral de acordo com as instruções da embalagem. Em um panela, refogue a cebola e o alho picados em um fio de azeite até ficarem dourados. Adicione o frango e deixe dourar por alguns minutos. Adicione os cogumelos picados e misture. Adicione o molho de tomate e deixe cozinhar por alguns minutos. Por fim, misture o creme de leite e sirva com o arroz integral."
+              },
+              {
+                "nome": "Tortilha de legumes",
+                "ingredientes": [
+                  {
+                    "nome": "Ovos",
+                    "quantidade": "2 unidades"
+                  },
+                  {
+                    "nome": "Cenoura ralada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Abobrinha picada",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Tomate picado",
+                    "quantidade": "1 unidade"
+                  },
+                  {
+                    "nome": "Queijo branco picado",
+                    "quantidade": "1/2 xícara"
+                  }
+                ],
+                "modo_preparo": "Bata os ovos em uma tigela. Adicione os legumes picados e o queijo branco e misture. Despeje a mistura em uma frigideira aquecida e deixe cozinhar até que a tortilha esteja firme. Vire para que cozinhe do outro lado. Sirva."
+              },
+              {
+                "nome": "Peito de frango grelhado com salada verde",
+                "ingredientes": [
+                  {
+                    "nome": "Peito de frango",
+                    "quantidade": "150g"
+                  },
+                  {
+                    "nome": "Alface",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Rúcula",
+                    "quantidade": "1 xícara"
+                  },
+                  {
+                    "nome": "Tomate cereja",
+                    "quantidade": "10 unidades"
+                  },
+                  {
+                    "nome": "Vinagrete",
+                    "quantidade": "a gosto"
+                  }
+                ],
+                "modo_preparo": "Grelhe o peito de frango em uma frigideira antiaderente. Sirva com a salada verde temperada com vinagrete."
+              }
+            ]
+          }
+        ]
+      },
+      "id": 10
+    }
+  ]
+}
