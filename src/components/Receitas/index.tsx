@@ -9,9 +9,21 @@ interface ReceitaProps {
     carbohydrate: number
     calories: number
   }
+  ingrediente1: string
+  ingrediente2: string
+  ingrediente3: string
+  ingrediente4: string
+  ingrediente5?: string
+  ingrediente6?: string
+  ingrediente7?: string
+  ingrediente8?: string
+
+
+
+  preparo: string
 }
 
-export function Receitas({ name, data }: ReceitaProps) {
+export function Receitas({ name, data, ingrediente1,ingrediente2,ingrediente3,ingrediente4, ingrediente5, ingrediente6, ingrediente7, ingrediente8 ,preparo }: ReceitaProps) {
   return (
     <Dialog.Root>
       <Dialog.Trigger asChild>
@@ -38,8 +50,8 @@ export function Receitas({ name, data }: ReceitaProps) {
         </div>
       </Dialog.Trigger>
       <Dialog.Portal>
-        <Dialog.Overlay className="fixed inset-0 bg-blackA9 data-[state=open]:animate-overlayShow" />
-        <Dialog.Content className="fixed left-[50%] top-[50%] max-h-[85vh] w-[90vw] max-w-[750px] translate-x-[-50%] translate-y-[-50%] rounded-[6px] bg-white p-[25px] shadow-[hsl(206_22%_7%_/_35%)_0px_10px_38px_-10px,_hsl(206_22%_7%_/_20%)_0px_10px_20px_-15px] focus:outline-none data-[state=open]:animate-contentShow">
+        <Dialog.Overlay className="fixed inset-0 z-10 bg-blackA9 data-[state=open]:animate-overlayShow" />
+        <Dialog.Content className="fixed left-[50%] top-[50%] max-h-[85vh] w-[90vw] max-w-[750px] z-50 translate-x-[-50%] translate-y-[-50%] rounded-[6px] bg-white p-[25px] shadow-[hsl(206_22%_7%_/_35%)_0px_10px_38px_-10px,_hsl(206_22%_7%_/_20%)_0px_10px_20px_-15px] focus:outline-none data-[state=open]:animate-contentShow">
           <Dialog.Title className="m-0 text-[17px] font-medium capitalize text-mauve12">
             {name}
           </Dialog.Title>
@@ -48,55 +60,45 @@ export function Receitas({ name, data }: ReceitaProps) {
               <h2 className="text-lg font-bold text-black">Ingredientes</h2>
               <ul className=" h-full list-disc">
                 <li className="pt-6">
-                  2 xícaras de leite (pode ser leite de vaca, leite vegetal ou
-                  iogurte natural)
+                  {ingrediente1}
                 </li>
                 <li className="pt-6">
-                  1 colher de sopa de mel ou outro adoçante a gosto
+                  {ingrediente2}
                 </li>
-                <li className="pt-6">Frutas frescas para servir (opcional)</li>
+                <li className="pt-6">{ingrediente3}</li>
                 <li className="pt-6">
-                  1 colher de sopa de mel ou outro adoçante a gosto
+                  {ingrediente4}
                 </li>
+                {ingrediente5 && (
+                    <li className="pt-6">
+                    {ingrediente5}
+                     </li>
+                )}
+                
+                {ingrediente6 && (
+                  <li className="pt-6">
+                  {ingrediente6}
+                </li>
+                )}
+                {
+                  ingrediente7 && (
+                    <li className="pt-6">
+                      {ingrediente7}
+                    </li>
+                  )
+                }
+                {
+                  ingrediente8 && (
+                    <li className="pt-6">
+                      {ingrediente8}
+                    </li>
+                  )
+                }
               </ul>
             </div>
             <div className=" w-1/2">
               <h2 className="text-lg font-bold text-black">Modo de preparo</h2>
-              <ul className="list-decimal text-sm ">
-                <li>
-                  Em uma panela pequena, aqueça o leite em fogo médio até ficar
-                  morno. Não deixe ferver.
-                </li>
-                <li>Adicione a aveia em flocos ao leite morno e mexa bem. </li>
-                <li>
-                  Cubra a panela com uma tampa ou pano de prato limpo e deixe
-                  descansar por cerca de 10 minutos. Isso permitirá que a aveia
-                  absorva parte do líquido.
-                </li>
-                <li>
-                  Após os 10 minutos, adicione o mel ou outro adoçante de sua
-                  preferência e mexa novamente.
-                </li>
-                <li>
-                  Despeje o conteúdo da panela em potes de vidro esterilizados
-                  ou em um recipiente de vidro com tampa hermética.
-                </li>
-                <li>
-                  Cubra os potes ou recipientes com papel filme ou tampa e
-                  coloque-os em um local quente da sua cozinha, como dentro do
-                  forno desligado, por exemplo.
-                </li>
-                <li>
-                  Deixe descansar por cerca de 6 a 8 horas, ou até que o iogurte
-                  tenha engrossado e adquirido uma consistência cremosa. Depois
-                  que o iogurte tiver fermentado pelo tempo desejado, coloque-o
-                  na geladeira para esfriar e firmar por pelo menos 1 hora.
-                </li>
-                <li>
-                  Quando estiver pronto para servir, você pode adicionar frutas
-                  frescas por cima do iogurte, se desejar.
-                </li>
-              </ul>
+              <p>{preparo}</p>
             </div>
           </Dialog.Description>
 

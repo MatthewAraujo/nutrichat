@@ -1,7 +1,7 @@
 import { EnvelopeSimple } from '@phosphor-icons/react'
 import { Perfil } from '../AvatarIcon'
 interface HeaderProps {
-  name: string
+  name: string | null | any
   description: string | null | any
 }
 export function Header({ name, description }: HeaderProps) {

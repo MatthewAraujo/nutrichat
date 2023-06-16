@@ -1,15 +1,9 @@
 import { ChatGptContext } from '@/contexts/ChatGPTContext'
 import Image from 'next/image'
-import { useRouter } from 'next/router'
-import { useContext, useState } from 'react'
+import { useContext } from 'react'
 
 export default function SignUp() {
   const {name,setName, email, setEmail, password, setPassword, handleCreateAcount} = useContext(ChatGptContext)
- 
-  
-
-
-  
   return (
     <main className="mx-auto flex h-screen max-w-[830px] items-center justify-center ">
       <div className="flex rounded-lg">
