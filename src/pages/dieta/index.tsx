@@ -4,7 +4,7 @@ import { Header } from '../../components/Header'
 import { ChatGptContext } from '@/contexts/ChatGPTContext'
 
 export default function Dieta() {
-  const { name } = useContext(ChatGptContext)
+  const { name,peso,altura,idade,sexo,dieta,alergias,renda,objetivo } = useContext(ChatGptContext)
 
   return (
     <main className="flex h-screen">
@@ -19,22 +19,21 @@ export default function Dieta() {
                 Motivacao da dieta
               </h2>
               <p className="mt-2">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe
-                obcaecati tempore, quaerat ex aperiam iste adipisci suscipit
-                quas accusamus aspernatur error fugit quod illo voluptas. Illum
-                et deleniti tenetur ab!
+               
               </p>
             </div>
             <div className=" h-full w-full bg-[#E2E8F0] p-4">
               <h2 className="text-2xl font-bold text-black">
                 Dados do usuario
               </h2>
-              <p>Peso:79kg</p>
-              <p>ALtura: 1.75cm</p>
-              <p>Idade: 21 anos</p>
-              <p>Sexo: Masculino</p>
-              <p>Tipo de Dieta: Sem preferências</p>
-              <p>Alergias: Chocolate</p>
+              <p>Peso: <span>{peso}</span></p>
+              <p>Altura:  <span>{altura} cm</span></p>
+              <p>Idade:  <span>{idade} anos</span></p>
+              <p>Sexo:  <span>{sexo}</span></p>
+              <p>Tipo de Dieta: <span>{dieta}</span></p>
+              <p>Alergias: <span>{alergias}</span></p>
+              <p>Renda: <span>R${renda}</span> </p>
+              <p>Objetivo: <span>{objetivo}</span></p>
             </div>
           </div>
           <div className=" py-8">

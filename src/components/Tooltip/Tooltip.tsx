@@ -9,9 +9,9 @@ export function TooltipForm({name}: TooltipProps){
     <Tooltip.Provider>
       <Tooltip.Root>
       <Tooltip.Trigger asChild >
-          <button className="text-greenBgCalendar shadow-blackA7 hover:bg-violet3 inline-flex h-[25px] w-[25px] items-center justify-center rounded-full bg-white shadow-[0_2px_10px] outline-none focus:shadow-[0_0_0_2px] focus:shadow-black">
+          <p className="text-greenBgCalendar shadow-blackA7 hover:bg-violet3 inline-flex h-[25px] w-[25px] items-center justify-center rounded-full bg-white shadow-[0_2px_10px] outline-none focus:shadow-[0_0_0_2px] focus:shadow-black">
             <Info size={22} />
-          </button>
+          </p>
       </Tooltip.Trigger>
       <Tooltip.Portal>
           <Tooltip.Content

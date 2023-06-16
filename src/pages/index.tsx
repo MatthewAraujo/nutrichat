@@ -27,8 +27,8 @@ import { Calendar } from '@/components/Calendar'
 
 export default function Home() {
   // const [receitas, setReceitas] = useState<Receitas[]>([])
-  // const { botResponse } = useContext(ChatGptContext)
-  // console.log(botResponse)
+  const { botResponse } = useContext(ChatGptContext)
+  console.log(botResponse)
 
   // if(botResponse){
   //   const message = JSON.parse(botResponse);
