@@ -111,6 +111,7 @@ Para me dar a resposta desse resultado vocé vai funcionar como uma API, estou f
         console.log(error)
       })
   }
+
   function handleCreateData(e: any) {
     e.preventDefault()
     setPeso(peso)
@@ -122,6 +123,10 @@ Para me dar a resposta desse resultado vocé vai funcionar como uma API, estou f
     setDieta(dieta)
     setPreferencias(preferencias)
     setObjetivo(objetivo)
+
+    handleSubmit(e)
+
+
     router.push('/')
   }
 
